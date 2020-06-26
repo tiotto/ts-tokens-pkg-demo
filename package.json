@@ -1,0 +1,7 @@
+{
+  "name": "fb-starter",
+  "scope": "@thaysthays",
+  "version": "0.0.1",
+  "description": "This is a work in progress proof of concept.",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}

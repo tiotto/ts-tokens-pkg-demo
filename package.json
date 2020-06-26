@@ -1,6 +1,5 @@
 {
-  "name": "@thaysthays/fb-starter",
-  "scope": "@thaysthays",
+  "name": "fb-starter",
   "version": "0.0.1",
   "description": "This is a work in progress proof of concept.",
   "publishConfig": {

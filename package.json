@@ -1,7 +1,23 @@
 {
-  "name": "fb-starter",
+  "name": "@thaysthays/fb-starter",
   "scope": "@thaysthays",
   "version": "0.0.1",
   "description": "This is a work in progress proof of concept.",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaysthays/fb-starter.git"
+  },
+  "author": "Thays Giotto <giotto.thays@gmail.com> (https://github.com/thaysthays)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaysthays/fb-starter/issues"
+  },
+  "homepage": "https://github.com/thaysthays/fb-starter#readme"
 }
